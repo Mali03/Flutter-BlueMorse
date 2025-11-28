@@ -4,14 +4,11 @@
 ![Dart](https://img.shields.io/badge/Dart-3.7.2-blue?logo=dart)
 ![IoT](https://img.shields.io/badge/IoT-green?logo=iot)
 
-EN - A Flutter + ESP32 project that lets you send Morse-coded messages wirelessly using BLE. The ESP32 detects Morse button presses, converts them into letters/words, and sends the decoded text to the Flutter app using Bluetooth Low Energy (BLE) notifications.
+EN - A Flutter + ESP32 project that lets you send Morse-coded messages wirelessly using BLE. The ESP32 detects Morse button presses, converts them into letters/words, and sends the decoded text to the Flutter app using Bluetooth Low Energy (BLE) notifications. You can watch the demo video here: [Example.mp4](Example.mp4)
 
-TR - BLE üzerinden kablosuz olarak Mors kodu mesajları göndermenizi sağlayan bir Flutter + ESP32 projesi. ESP32, Mors kodu için yapılan buton basışlarını algılar, bunları harf ve kelimelere dönüştürür ve çözümlenen metni Bluetooth Low Energy (BLE) bildirimleri aracılığıyla Flutter uygulamasına gönderir.
+TR - BLE üzerinden kablosuz olarak Mors kodu mesajları göndermenizi sağlayan bir Flutter + ESP32 projesi. ESP32, Mors kodu için yapılan buton basışlarını algılar, bunları harf ve kelimelere dönüştürür ve çözümlenen metni Bluetooth Low Energy (BLE) bildirimleri aracılığıyla Flutter uygulamasına gönderir. Demo videoyu buradan izleyebilirsiniz: [Example.mp4](Example.mp4)
 
-<video width="300" controls>
-  <source src="Example.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 <p float="left">
   <img src="https://i.imgur.com/DjS6WuR.jpeg" width="250" />
