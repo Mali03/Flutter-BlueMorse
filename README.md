@@ -4,9 +4,14 @@
 ![Dart](https://img.shields.io/badge/Dart-3.7.2-blue?logo=dart)
 ![IoT](https://img.shields.io/badge/IoT-green?logo=iot)
 
-A Flutter + ESP32 project that lets you send Morse-coded messages wirelessly using BLE.
+EN - A Flutter + ESP32 project that lets you send Morse-coded messages wirelessly using BLE. The ESP32 detects Morse button presses, converts them into letters/words, and sends the decoded text to the Flutter app using Bluetooth Low Energy (BLE) notifications.
 
-The ESP32 detects Morse button presses, converts them into letters/words, and sends the decoded text to the Flutter app using Bluetooth Low Energy (BLE) notifications.
+TR - BLE üzerinden kablosuz olarak Mors kodu mesajları göndermenizi sağlayan bir Flutter + ESP32 projesi. ESP32, Mors kodu için yapılan buton basışlarını algılar, bunları harf ve kelimelere dönüştürür ve çözümlenen metni Bluetooth Low Energy (BLE) bildirimleri aracılığıyla Flutter uygulamasına gönderir.
+
+<video width="300" controls>
+  <source src="Example.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p float="left">
   <img src="https://i.imgur.com/DjS6WuR.jpeg" width="250" />
@@ -14,6 +19,13 @@ The ESP32 detects Morse button presses, converts them into letters/words, and se
   <img src="https://i.imgur.com/8LDF93w.jpeg" width="250" />
 </p>
 
+# 🌍 Languages
+You can select your preferred languages below:
+
+- [English](#English)
+- [Türkçe](#Türkçe)
+
+# English
 ## 🔍 Features
 - Real-time BLE scanning (Flutter Blue Plus)
 - Secure BLE pairing (bonding) on ESP32
@@ -47,16 +59,16 @@ Sends the entire message when the **Send button** is pressed.
 ## 🔧 Installation
 **ESP32 Side**
 
-1. Open Arduino IDE
-2. Install ESP32 board support
-3. Install libraries:
+1. Wire cables like `Cable Notations.jpg`
+2. Open Arduino IDE
+3. Install ESP32 board support
+4. Install libraries:
 - `BLEDevice`
 - `BLEUtils`
 - `BLEServer`
 
-4. Upload the provided `Esp32_mors.ino` file
-
-5. Open Serial Monitor to view Morse decoding
+5. Upload the provided `Esp32_mors.ino` file
+6. Open Serial Monitor to view Morse decoding
 
 **Flutter Side**
 1. Clone the repo
@@ -68,3 +80,11 @@ flutter run
 ```
 
 _NOTE: Make sure Bluetooth + Location permissions are enabled_
+
+## 📚 License
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/FlutterNoteApp/blob/main/LICENSE) file for details.
+
+## ❓ Need Help
+If you need any help contact me on [LinkedIn](https://www.linkedin.com/in/mali03/).
+
+# Türkçe
