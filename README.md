@@ -85,7 +85,7 @@ flutter run
 _NOTE: Make sure Bluetooth + Location permissions are enabled_
 
 ## 📚 License
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/FlutterNoteApp/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/Flutter-BlueMorse/blob/main/LICENSE) file for details.
 
 ## ❓ Need Help
 If you need any help contact me on [LinkedIn](https://www.linkedin.com/in/mali03/).
@@ -155,7 +155,7 @@ flutter run
 _NOTE: Bluetooth + Konum izni'nin verildiğinden ve açık olduğundan emin ol_
 
 ## 📚 Lisans
-Bu proje **MIT Lisans** altında lisanslanmıştır - detaylar için [LICENSE](https://github.com/Mali03/FlutterNoteApp/blob/main/LICENSE) dosyasını incele.
+Bu proje **MIT Lisans** altında lisanslanmıştır - detaylar için [LICENSE](https://github.com/Mali03/Flutter-BlueMorse/blob/main/LICENSE) dosyasını incele.
 
 ## ❓ Yardım
 Eğer bir yardıma ihtiyacın varsa bana [LinkedIn](https://www.linkedin.com/in/mali03/) üzerinden ulaş.
